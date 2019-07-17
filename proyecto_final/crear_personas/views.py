@@ -48,7 +48,6 @@ def crear_docente(request:HttpRequest):
     if(request.method=='POST'):
         formas=formas_entradas_docentes(c_dict(request,formas_entradas_docentes))
         personas_n=formas_entrada_persona(c_dict(request,formas_entrada_persona))
-        print(usuarios.is_valid())
         if( personas_n.is_valid() and formas.is_valid() ):
             usuarios = validar_contraseñas(c_dict(request, validar_contraseñas))
             persona_final=personas_n.save(commit=False)#type:personas

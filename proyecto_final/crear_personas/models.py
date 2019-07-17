@@ -29,17 +29,6 @@ class estudiantes (models.Model):
     class Meta:
         managed = False
         db_table = 'estudiante'
-
-class grado(models.Model):
-    id_grado= models.BigAutoField(primary_key=True,db_column='id_grado',null=False,blank=False)
-    nombre=models.CharField(db_column='nombre',max_length=10)
-    jornada=models.CharField(db_column='jornada',max_length=10)
-    salon=models.CharField(db_column='salon',max_length=10)
-    class Meta:
-        managed = False
-        db_table = 'grado'
-
-
 class docentes(models.Model):
     selecion = (
          ('Normalista','Normalista')
@@ -59,6 +48,17 @@ class docentes(models.Model):
     class Meta:
         managed = False
         db_table = 'docentes'
+class grado(models.Model):
+    id_grado= models.BigAutoField(primary_key=True,db_column='id_grado',null=False,blank=False)
+    nombre=models.CharField(db_column='nombre',max_length=10)
+    jornada=models.CharField(db_column='jornada',max_length=10)
+    salon=models.CharField(db_column='salon',max_length=10)
+    class Meta:
+        managed = False
+        db_table = 'grado'
+
+
+
 
 class  materia(models.Model):
     id_materia=models.BigAutoField(primary_key=True,db_column='id_materia',null=False,blank=False)

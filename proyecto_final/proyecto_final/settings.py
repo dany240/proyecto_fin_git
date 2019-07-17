@@ -36,7 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'gotitas_del_saber'
+    'crear_personas',
+    'materiasydemas'
 ]
 
 MIDDLEWARE = [
