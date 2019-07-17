@@ -38,7 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="255">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -47,6 +48,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/templetetags/sd.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -58,10 +68,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/proyecto_final/crear_personas/urls.py" />
+        <option value="$PROJECT_DIR$/proyecto_final/crear_personas/templetetags/sd.txt" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="57" />
@@ -91,6 +114,13 @@
               <item name="proyecto_fin_semestre" type="462c0819:PsiDirectoryNode" />
               <item name="proyecto_final" type="462c0819:PsiDirectoryNode" />
               <item name="crear_personas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyecto_fin_semestre" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyecto_fin_semestre" type="462c0819:PsiDirectoryNode" />
+              <item name="proyecto_final" type="462c0819:PsiDirectoryNode" />
+              <item name="crear_personas" type="462c0819:PsiDirectoryNode" />
+              <item name="templetetags" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="proyecto_fin_semestre" type="b2602c69:ProjectViewProjectNode" />
@@ -145,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1563324067073</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="guadardo">
+      <created>1563328443877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563328443877</updated>
+    </task>
+    <task id="LOCAL-00004" summary="guadardo">
+      <created>1563328551297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563328551297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -154,7 +198,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.05" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.5183333" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -191,15 +235,6 @@
     <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -207,6 +242,26 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyecto_final/crear_personas/templetetags/sd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
